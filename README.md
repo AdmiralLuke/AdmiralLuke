@@ -1,2 +1,1 @@
-- Informatik Student an der Otto-von-Guericke Universität Magdeburg
-- Hobbymusiker mit einem Hang zum Orchester
+
